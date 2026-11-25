@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "EduHub": "Host=localhost;Port=5432;Database=eduhub;Username=postgres;Password=MAT_KHAU_THAT_CUA_BAN"
+  }
+}
