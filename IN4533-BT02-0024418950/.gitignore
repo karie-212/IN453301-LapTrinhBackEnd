@@ -1,0 +1,9 @@
+# .NET build
+bin/
+obj/
+
+src/appsettings.Development.json
+
+.vs/
+.vscode/
+*.user
